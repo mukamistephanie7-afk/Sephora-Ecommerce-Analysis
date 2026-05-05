@@ -106,8 +106,8 @@ This profile generates an average of **271,427 loves** which is 5x more engageme
 ---
 
 ## 📸 Dashboard Preview
-*(Upload your dashboard image to GitHub and update the link below)*
-![Sephora Dashboard](PowerBI/Sephora_Dashboard_Screenshot.png)
+<img width="693" height="562" alt="image" src="https://github.com/user-attachments/assets/b5278b79-58d2-47dd-89f9-f393edbcfb75" />
+
 
 ---
 
