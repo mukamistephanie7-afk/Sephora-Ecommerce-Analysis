@@ -67,7 +67,7 @@ Key Findings
 Finding	Insight
 Top Category	Makeup leads with an average rating of 4.52 and zero out of stock products
 
-Top Brand	Anastasia Beverly Hills dominates with 4.1M total loves from just 9 products
+Top Brand	was Anastasia Beverly Hills which dominates with 4.1M total loves from just 9 products.
  Best Price Point	Budget products ($0-$25) generate the highest customer engagement
 Biggest Stock Issue	Bath & Body has a 33% out of stock rate which is the worst in the catalogue
 Underperforming
@@ -91,7 +91,6 @@ Power BI Desktop	Dashboard and visualization
  
 About the Analyst
 Stephanie Mukami Gitonga - Data Analyst based in Nairobi, Kenya
-Portfolio: Notion Portfolio
 LinkedIn: linkedin.com/in/stephanalyzes
 •	Email: mukamistephanie7@gmail.com
  
